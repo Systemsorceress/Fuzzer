@@ -1,0 +1,4 @@
+<input class="form-control" id="username" placeholder="Enter username" type="text"/>
+ID: username
+<input class="form-control" id="password" placeholder="Enter password" type="password"/>
+ID: password
